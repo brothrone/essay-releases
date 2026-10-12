@@ -1,2 +1,6 @@
-# essay-releases
-Essay 설치 파일 — 다운로드는 https://essay.win
+# Essay
+
+자소서 · 스펙 관리 PC 프로그램 Essay 의 설치 파일을 두는 곳이에요.
+
+- 다운로드 · 소개: https://essay.win
+- 앱 안 자동 업데이트도 이 저장소의 릴리스를 봐요.
